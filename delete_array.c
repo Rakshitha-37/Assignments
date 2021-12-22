@@ -26,7 +26,7 @@ int main()
 	{
 		printf("Index to be deleted >= size\n");
 	}
-	printf("Array elements after deletion: ");
+	printf("Resultant array elements: ");
 	for(int i = 0;i < count;i++)
 	{
 		printf("%d ", arr[i]);
